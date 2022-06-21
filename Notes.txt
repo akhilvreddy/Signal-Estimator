@@ -1,0 +1,2 @@
+Here, we are using previously known signals to estimate where our signals are supposed to be. 
+Hence, it is essential to know the signals itself in order to know the delays in this case.
